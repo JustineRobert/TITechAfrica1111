@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/JustineRobert/TITechAfrica/issues"
   },
-  "homepage": "https://github.com/JustineRobert/TITechAfrica#readme"
+  "homepage": "https://github.com/JustineRobert/TITechAfrica#readme",
+  "devDependencies": {
+    "coveralls": "^3.0.9",
+    "jest": "^24.9.0"
+  }
 }
