@@ -1,0 +1,23 @@
+{
+  "name": "titechafrica",
+  "version": "1.0.0",
+  "description": "TITechAfrica is a wide social network for African Technology systems. The goal of this application is to facilitate more interaction between Technology Systems and promote team building and collaboration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustineRobert/TITechAfrica.git"
+  },
+  "author": "Justine Robert Igune",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JustineRobert/TITechAfrica/issues"
+  },
+  "homepage": "https://github.com/JustineRobert/TITechAfrica#readme",
+  "devDependencies": {
+    "coveralls": "^3.0.9",
+    "jest": "^24.9.0"
+  }
+}
